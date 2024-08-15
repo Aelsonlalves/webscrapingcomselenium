@@ -17,3 +17,9 @@ O site utilização para realização do web scraping foi https://sagrescidadao.
 **DATASET**
 
 Após o scraping e transformações feitas em python, os dados foram salvos como um csv.
+
+**RESULTADOS**
+Como resultado da análise de dados realizada foi construído um dashboard fornecendo a capacidade de comparar diferentes cargos quanto a médias salariais e número de servidores por cargo.
+Dashboard:
+![image](https://github.com/user-attachments/assets/0b78d149-1065-46bf-9d33-39ff53fe7f8c)
+
